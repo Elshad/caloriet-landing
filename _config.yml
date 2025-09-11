@@ -40,7 +40,7 @@ features                                  :
 
   - title                                 : Track Your Calories
     description                           : Track your calories on a daily basis.
-    fontawesome_icon_name                 : fa-bar-chart
+    fontawesome_icon_name                 : chart-pie
     
   - title                                 : # Log Your Income
     description                           : # Effortlessly record your income and monitor your earnings against your expenses.
