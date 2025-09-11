@@ -10,7 +10,7 @@ include_in_header: true
 
 <br>
 
-[Write email to me](mailto:yelshad+spenty@gmail.com)
+[Write email to me](mailto:yelshad+calomalo@gmail.com)
 
 <br>
 
