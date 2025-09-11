@@ -2,7 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 6738012323                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 6752133526                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -13,7 +13,7 @@ presskit_download_link                    : https://elshad.net                  
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Take control of your finances with Spenty — the easiest way to track your spending, manage your budget, and keep your financial goals on track.
+app_description                           : Stay on top of your health with CaloMalo — the simplest way to track your calories, monitor your nutrition, and achieve your wellness goals with ease.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -23,7 +23,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Elshad Yarmetov                                
 your_link                                 : https://elshad.net                     
 your_city                                 : Baku                                
-email_address                             : yelshad+spenty@gmail.com
+email_address                             : yelshad+calomalo@gmail.com
 linkedin_username                         :                                           
 linkedin_company                          :                                           
 facebook_username                         :                                           
@@ -38,29 +38,29 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Track Your Expenses
-    description                           : Quickly add and categorize your expenses to stay on top of your spending.
-    fontawesome_icon_name                 : comment-dollar
+  - title                                 : Track Your Calories
+    description                           : Track your calories on a daily basis.
+    fontawesome_icon_name                 : fa-pie-chart
     
-  - title                                 : Log Your Income
-    description                           : Effortlessly record your income and monitor your earnings against your expenses.
-    fontawesome_icon_name                 : coins
+  - title                                 : # Log Your Income
+    description                           : # Effortlessly record your income and monitor your earnings against your expenses.
+    fontawesome_icon_name                 : # coins
     
-  - title                                 : Spenty GPT
-    description                           : Manage your expenses and incomes smartly with Spenty GPT.
-    fontawesome_icon_name                 : magic
+  - title                                 : # Spenty GPT
+    description                           : # Manage your expenses and incomes smartly with Spenty GPT.
+    fontawesome_icon_name                 : # magic
 
-  - title                                 : Inter-Account Transfers
-    description                           : Seamlessly manage transfers between your accounts for a more complete view of your finances.
-    fontawesome_icon_name                 : sync
+  - title                                 : # Inter-Account Transfers
+    description                           : # Seamlessly manage transfers between your accounts for a more complete view of your finances.
+    fontawesome_icon_name                 : # sync
 
   - title                                 : # Budget Management
     description                           : # Set budgets for different categories and track your progress to stay within your financial goals.
     fontawesome_icon_name                 : # sync
 
-  - title                                 : Intuitive and User-Friendly Interface
-    description                           : Clean, easy-to-use design to help you track your finances with minimal effort.
-    fontawesome_icon_name                 : mobile
+  - title                                 : # Intuitive and User-Friendly Interface
+    description                           : # Clean, easy-to-use design to help you track your finances with minimal effort.
+    fontawesome_icon_name                 : # mobile
   
   - title                                 : # Feature List
     description                           : # Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
