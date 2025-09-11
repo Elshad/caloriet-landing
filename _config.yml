@@ -38,7 +38,7 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Track Your Calories
+  - title                                 : Calories
     description                           : Track your calories on a daily basis.
     fontawesome_icon_name                 : chart-pie
     
